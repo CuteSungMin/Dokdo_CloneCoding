@@ -1,0 +1,104 @@
+@media (max-width: 1400px){
+    .w1400{
+        width: 100%;
+        padding: 30px;
+        box-sizing: border-box;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (max-width:1400px){
+    *{box-sizing:border-box ;}
+    .w1400{
+        width: 100%;
+        padding: 0 60px;
+    }
+    .gnb{
+        margin: 0 10px;
+    }
+    .gnb>ul>li>a{
+        padding: 5px;
+    }
+    .info_wrap{
+        padding: 103px 28px;
+    }
+    .dokdo_info{
+        padding: 75px 70px 28px;
+    }
+    .view_info{
+        padding: 75px 70px 28px 127px;
+    }
+}
+@media (max-width:1023px){
+    *{box-sizing: border-box;}
+    .w1400{
+        padding: 0;
+    }
+    .menu_bar{
+        padding-top: 6px;
+        display: block;
+    }
+    .member{
+        margin-right:-400px;
+    }
+    header{
+        padding: 0 30px;
+    }
+    header>div{
+        height: 75px;
+    }
+    .gnb{
+        display: none;
+    }
+    .res_btn{
+        bottom: 0; right: 0;
+    }
+    .info_wrap{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 100px 0;
+    }
+    .info_wrap>article{
+        width: 100%;
+        margin: 0 30px;
+    }
+    .dokdo_info{
+        width: 100%;
+    }
+    .view_info{
+        width: 100%;
+        background-color: #f8f8f8;
+        border-radius: 40px;
+        margin-top: 30px;
+    }
+    .notice_wrap{
+        padding: 0 30px 130px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .noti_cont figure{
+        padding: 30px;
+        width: 230px;
+    }
+    .noti_tit::before{
+        border: 35px solid #09847f;
+        box-sizing: border-box;
+        z-index: -1;
+        width: 150px; height: 150px;
+        right: -180px; top: -60px;
+    }
+    .zone_info{
+        width: 100%;
+        margin: 0 30px;
+    }
+} */
