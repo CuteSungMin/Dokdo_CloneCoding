@@ -7,5 +7,5 @@
 HTML, CSS로만 이루어진 클론 코딩 입니다.
 <p>독도 https://cutesungmin.github.io/Dokdo_CloneCoding/</p>
 <p> 🙂 학원에서의 첫 프로젝트이며 JS를 배우기 전 입니다.👶</p>
-<p> 🙂 HTML, CSS를 진짜 잘 하고 싶다는 생각으로 만들었던 것 같습니다.</p>
+<p> 🙂 HTML, CSS를 활용하여 최대한 똑같이 만드려고 했습니다.</p>
 
